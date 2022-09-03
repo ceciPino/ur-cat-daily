@@ -1,6 +1,7 @@
 .App {
-  font-family: sans-serif;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-align: center;
+  margin: 10%;
 }
 
 body {
@@ -20,4 +21,13 @@ body {
 
 p {
   color: yellow;
+}
+
+button {
+  border-radius: 30px;
+  background-color: yellow;
+  border-color: yellow;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: pink;
+  font-weight: bolder;
 }
